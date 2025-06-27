@@ -1,0 +1,70 @@
+.facility {
+  background: url(../../img/bg/04.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+
+  &__item {
+    border: 1px solid $ddd;
+    text-align: center;
+    padding: 50px 15px 15px;
+    position: relative;
+    margin-top: 50px;
+    z-index: 1;
+    @include transition(0.2s);
+
+    &:hover {
+      // border: none;
+      box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 8px 0px;
+    }
+
+    &__icon {
+      position: absolute;
+      top: -50px;
+      left: 50%;
+      transform: translateX(-50%);
+      background-color: $orange;
+      border-radius: 50%;
+      color: $white;
+      display: grid;
+      place-items: center;
+      overflow: hidden;
+
+      img {
+        width: 80px;
+        height: 80px;
+        max-height: 80px;
+        object-fit: cover;
+        border-radius: 50%;
+      }
+    }
+
+    .facility__brief {
+      &>div {
+        @include line-clamp(4);
+
+        img {
+          display: none;
+        }
+      }
+    }
+  }
+}
+
+@media (max-width: 768px) {
+  .facility {
+    &__item {
+      .sm_heading {
+        font-size: 20px;
+      }
+
+    }
+
+    &__brief {
+      p {
+        font-size: 14px;
+      }
+    }
+  }
+}

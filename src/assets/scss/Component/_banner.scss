@@ -1,0 +1,166 @@
+.banner {
+  overflow: hidden;
+  position: relative;
+  z-index: 1;
+
+  &__item {
+    height: 500px;
+    width: 100%;
+
+    &::before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background-color: rgba(0, 0, 0, 0.5);
+    }
+  }
+
+  &__text {
+    position: absolute;
+    top: 0;
+    left: 8%;
+    right: 0;
+    bottom: 0;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    flex-direction: column;
+
+    p {
+      padding-top: 1.2rem;
+      color: $white;
+      @include line-clamp(2);
+      max-width: 700px;
+    }
+
+    h1 {
+      @include line-clamp(2);
+
+      &.lg__heading {
+        max-width: 500px;
+
+      }
+
+      &.sub__heading {
+        max-width: 500px;
+      }
+    }
+
+  }
+
+  @media(max-width: 792px) {
+    .banner__text {
+      left: 5%;
+      right: 5%;
+    }
+  }
+
+  .slick-arrow {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    z-index: 1;
+    background-color: $orange;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    opacity: 0;
+    visibility: hidden;
+    @include transition(0.5s);
+  }
+
+  &:hover {
+    .slick-arrow {
+      opacity: 1;
+      visibility: visible;
+    }
+
+    .slick-prev {
+      left: 0;
+    }
+
+    .slick-next {
+      right: 0;
+    }
+  }
+
+  .slick-active {
+    .banner__text {
+      p {
+        animation: ScrollLeft 0.5s linear;
+      }
+
+      h1 {
+        animation: ScrollTop 0.5s linear;
+      }
+    }
+  }
+}
+
+@keyframes ScrollLeft {
+  0% {
+    transform: translateY(100px);
+  }
+
+  100% {
+    transform: translateY(0);
+  }
+}
+
+@keyframes ScrollTop {
+  0% {
+    transform: translateX(-80px);
+  }
+
+  100% {
+    transform: translateX(0);
+  }
+}
+
+.page__banner {
+  &__content {
+    .page__nav {
+      display: flex;
+      justify-content: flex-start;
+      align-items: center;
+      gap: 15px;
+
+      a,
+      h1.lg__heading {
+        color: $white;
+      }
+
+      span {
+        color: $orange;
+      }
+
+      a {
+        &::after {
+          content: "/";
+          display: inline-block;
+          margin-left: 10px;
+        }
+
+        &:hover {
+          color: $orange;
+        }
+      }
+    }
+  }
+
+}
+
+@media(max-width: 768px) {
+  .banner {
+    &__item {
+      height: 500px;
+    }
+  }
+
+  .page__banner {
+    height: 250px !important;
+  }
+}

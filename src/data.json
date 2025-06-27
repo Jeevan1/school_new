@@ -1,0 +1,615 @@
+{
+  "navbar": [
+    {
+      "item": "Home",
+      "link": "/"
+    },
+    {
+      "item": "About Us",
+      "link": "",
+      "subItem": [
+        {
+          "item": "Our Team",
+          "link": "/team"
+        },
+        {
+          "item": "Campus Batches",
+          "link": "/batch"
+        },
+        {
+          "item": "About Us",
+          "link": "/about"
+        }
+      ]
+    },
+    {
+      "item": "Notices",
+      "link": "/notices"
+    },
+    {
+      "item": "Reports",
+      "link": "/reports"
+    },
+    {
+      "item": "Results",
+      "link": "/results"
+    },
+    {
+      "item": "Curriculum",
+      "link": "/curriculum"
+    },
+    {
+      "item": "Blogs",
+      "link": "/blog"
+    },
+    {
+      "item": "Gallery",
+      "link": "/album"
+    },
+    {
+      "item": "Contact Us",
+      "link": "/contact"
+    }
+  ],
+
+  "banner": [
+    {
+      "title": "Nurturing Brilliance, Building Leaders",
+      "brief": "Discover the Path to Success at Nepal's Esteemed School.",
+      "image": "./src/assets/img/01.jpg"
+    },
+    {
+      "title": "Inspiring Excellence, Transforming Lives",
+      "brief": "Unleash your Potential at Nepal's Renowned School.",
+      "image": "./src/assets/img/02.jpg"
+    },
+    {
+      "title": "Empowering Education, Global Opportunities",
+      "brief": "Discover the Path to Success at Nepal's Esteemed School.",
+      "image": "./src/assets/img/03.jpg"
+    }
+  ],
+
+  "faculty": [
+    {
+      "title": "SEE",
+      "brief": "Discover the Path to Success at Nepal's Esteemed School.Discover the Path to Success at Nepal's Esteemed School.Discover the Path to Success at Nepal's Esteemed School.",
+      "image": "../../src/assets/img/02.jpg"
+    },
+    {
+      "title": "Higher Secondary [+2]",
+      "brief": "Unleash your Potential at Nepal's Renowned School.Unleash your Potential at Nepal's Renowned School.Unleash your Potential at Nepal's Renowned School.",
+      "image": "../../src/assets/img/03.jpg"
+    },
+    {
+      "title": "BSc. AG",
+      "brief": "Discover the Path to Success at Nepal's Esteemed School.Discover the Path to Success at Nepal's Esteemed School.Discover the Path to Success at Nepal's Esteemed School.",
+      "image": "../../src/assets/img/04.jpg"
+    },
+    {
+      "title": "Arts",
+      "brief": "Discover the Path to Success at Nepal's Esteemed School.Discover the Path to Success at Nepal's Esteemed School.Discover the Path to Success at Nepal's Esteemed School.",
+      "image": "../../src/assets/img/05.jpg"
+    },
+    {
+      "title": "Education",
+      "brief": "Discover the Path to Success at Nepal's Esteemed School.Discover the Path to Success at Nepal's Esteemed School.Discover the Path to Success at Nepal's Esteemed School.",
+      "image": "../../src/assets/img/09.jpg"
+    }
+  ],
+
+  "facility": [
+    {
+      "title": "Transportation",
+      "brief": "Discover the Path to Success at Nepal's Esteemed School.Discover the Path to Success at Nepal's Esteemed School.Discover the Path to Success at Nepal's Esteemed School.",
+      "image": "./src/assets/img/09.jpg"
+    },
+    {
+      "title": "Greate view",
+      "brief": "Unleash your Potential at Nepal's Renowned School.Unleash your Potential at Nepal's Renowned School.Unleash your Potential at Nepal's Renowned School.",
+      "image": "./src/assets/img/10.jpg"
+    },
+    {
+      "title": "Extra Classes",
+      "brief": "Discover the Path to Success at Nepal's Esteemed School.Discover the Path to Success at Nepal's Esteemed School.Discover the Path to Success at Nepal's Esteemed School.",
+      "image": "./src/assets/img/11.jpg"
+    },
+    {
+      "title": "Sport Week",
+      "brief": "Discover the Path to Success at Nepal's Esteemed School.Discover the Path to Success at Nepal's Esteemed School.Discover the Path to Success at Nepal's Esteemed School.",
+      "image": "./src/assets/img/12.jpg"
+    },
+    {
+      "title": "No Book Friday",
+      "brief": "Discover the Path to Success at Nepal's Esteemed School.Discover the Path to Success at Nepal's Esteemed School.Discover the Path to Success at Nepal's Esteemed School.",
+      "image": "./src/assets/img/13.jpg"
+    }
+  ],
+
+  "counter": [
+    {
+      "title": "Enrolled Students",
+      "value": "9,529"
+    },
+    {
+      "title": "Team Member",
+      "value": "19"
+    },
+    {
+      "title": "Years",
+      "value": "30"
+    },
+    {
+      "title": "Passout student",
+      "value": "10,000"
+    }
+  ],
+
+  "albums": [
+    {
+      "title": "Album 01",
+      "brief": "Unleash your Potential at Nepal's Renowned School.",
+      "image": "./src/assets/img/15.jpg"
+    },
+    {
+      "title": "Album 01",
+      "brief": "Unleash your Potential at Nepal's Renowned School.",
+      "image": "./src/assets/img/16.jpg"
+    },
+    {
+      "title": "Album 01",
+      "brief": "Unleash your Potential at Nepal's Renowned School.",
+      "image": "./src/assets/img/17.jpg"
+    },
+    {
+      "title": "Album 01",
+      "brief": "Unleash your Potential at Nepal's Renowned School.",
+      "image": "./src/assets/img/18.jpg"
+    }
+  ],
+
+  "testimonials": [
+    {
+      "message": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo repudiandae, obcaecati, enim, error eaque blanditiis nobis voluptas officia iusto mollitia quasi. At aperiam quas dolores nemo impedit, earum doloremque obcaecati",
+      "name": "Ganesh ",
+      "post": "Parent",
+      "image": "./src/assets/img/05.jpg"
+    },
+    {
+      "message": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo repudiandae, obcaecati, enim, error eaque blanditiis nobis voluptas officia iusto mollitia quasi. At aperiam quas dolores nemo impedit, earum doloremque obcaecati",
+      "name": "Karan",
+      "post": "Student",
+      "image": "./src/assets/img/07.jpg"
+    },
+    {
+      "message": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo repudiandae, obcaecati, enim, error eaque blanditiis nobis voluptas officia iusto mollitia quasi. At aperiam quas dolores nemo impedit, earum doloremque obcaecati",
+      "name": "abash",
+      "post": "Student",
+      "image": "./src/assets/img/08.jpg"
+    },
+    {
+      "message": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo repudiandae, obcaecati, enim, error eaque blanditiis nobis voluptas officia iusto mollitia quasi. At aperiam quas dolores nemo impedit, earum doloremque obcaecati",
+      "name": "jugeda sir",
+      "post": "Parent",
+      "image": "./src/assets/img/09.jpg"
+    }
+  ],
+  "batch_topper": [
+    {
+      "batch": "2080",
+      "students": [
+        {
+          "name": "Jeevan Shrestha",
+          "percentage": "80%",
+          "message": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo repudiandae, obcaecati, enim, error eaque blanditiis nobis voluptas officia iusto mollitia quasi. At aperiam quas dolores nemo impedit, earum doloremque obcaecati",
+          "image": "./src/assets/img/05.jpg"
+        },
+        {
+          "name": "Jeevan Shrestha",
+          "percentage": "80%",
+          "message": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo repudiandae, obcaecati, enim, error eaque blanditiis nobis voluptas officia iusto mollitia quasi. At aperiam quas dolores nemo impedit, earum doloremque obcaecati",
+          "image": "./src/assets/img/02.jpg"
+        },
+        {
+          "name": "Jeevan Shrestha",
+          "percentage": "80%",
+          "message": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo repudiandae, obcaecati, enim, error eaque blanditiis nobis voluptas officia iusto mollitia quasi. At aperiam quas dolores nemo impedit, earum doloremque obcaecati",
+          "image": "./src/assets/img/07.jpg"
+        },
+        {
+          "name": "Jeevan Shrestha",
+          "percentage": "80%",
+          "message": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo repudiandae, obcaecati, enim, error eaque blanditiis nobis voluptas officia iusto mollitia quasi. At aperiam quas dolores nemo impedit, earum doloremque obcaecati",
+          "image": "./src/assets/img/02.jpg"
+        },
+        {
+          "name": "Jeevan Shrestha",
+          "percentage": "80%",
+          "message": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo repudiandae, obcaecati, enim, error eaque blanditiis nobis voluptas officia iusto mollitia quasi. At aperiam quas dolores nemo impedit, earum doloremque obcaecati",
+          "image": "./src/assets/img/05.jpg"
+        },
+        {
+          "name": "Jeevan Shrestha",
+          "percentage": "80%",
+          "message": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo repudiandae, obcaecati, enim, error eaque blanditiis nobis voluptas officia iusto mollitia quasi. At aperiam quas dolores nemo impedit, earum doloremque obcaecati",
+          "image": "./src/assets/img/07.jpg"
+        },
+        {
+          "name": "Jeevan Shrestha",
+          "percentage": "80%",
+          "message": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo repudiandae, obcaecati, enim, error eaque blanditiis nobis voluptas officia iusto mollitia quasi. At aperiam quas dolores nemo impedit, earum doloremque obcaecati",
+          "image": "./src/assets/img/02.jpg"
+        },
+        {
+          "name": "Jeevan Shrestha",
+          "percentage": "80%",
+          "message": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo repudiandae, obcaecati, enim, error eaque blanditiis nobis voluptas officia iusto mollitia quasi. At aperiam quas dolores nemo impedit, earum doloremque obcaecati",
+          "image": "./src/assets/img/07.jpg"
+        }
+      ]
+    },
+    {
+      "batch": "2079",
+      "students": [
+        {
+          "name": "Jeevan Shrestha",
+          "percentage": "80%",
+          "message": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo repudiandae, obcaecati, enim, error eaque blanditiis nobis voluptas officia iusto mollitia quasi. At aperiam quas dolores nemo impedit, earum doloremque obcaecati",
+          "image": "./src/assets/img/07.jpg"
+        },
+        {
+          "name": "Jeevan Shrestha",
+          "percentage": "80%",
+          "message": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo repudiandae, obcaecati, enim, error eaque blanditiis nobis voluptas officia iusto mollitia quasi. At aperiam quas dolores nemo impedit, earum doloremque obcaecati",
+          "image": "./src/assets/img/02.jpg"
+        },
+        {
+          "name": "Jeevan Shrestha",
+          "percentage": "80%",
+          "message": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo repudiandae, obcaecati, enim, error eaque blanditiis nobis voluptas officia iusto mollitia quasi. At aperiam quas dolores nemo impedit, earum doloremque obcaecati",
+          "image": "./src/assets/img/05.jpg"
+        },
+        {
+          "name": "Jeevan Shrestha",
+          "percentage": "80%",
+          "message": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo repudiandae, obcaecati, enim, error eaque blanditiis nobis voluptas officia iusto mollitia quasi. At aperiam quas dolores nemo impedit, earum doloremque obcaecati",
+          "image": "./src/assets/img/01.jpg"
+        },
+        {
+          "name": "Jeevan Shrestha",
+          "percentage": "80%",
+          "message": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo repudiandae, obcaecati, enim, error eaque blanditiis nobis voluptas officia iusto mollitia quasi. At aperiam quas dolores nemo impedit, earum doloremque obcaecati",
+          "image": "./src/assets/img/03.jpg"
+        }
+      ]
+    },
+    {
+      "batch": "2078",
+      "students": [
+        {
+          "name": "Jeevan Shrestha",
+          "percentage": "80%",
+          "message": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo repudiandae, obcaecati, enim, error eaque blanditiis nobis voluptas officia iusto mollitia quasi. At aperiam quas dolores nemo impedit, earum doloremque obcaecati",
+          "image": "./src/assets/img/05.jpg"
+        },
+        {
+          "name": "Jeevan Shrestha",
+          "percentage": "80%",
+          "message": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo repudiandae, obcaecati, enim, error eaque blanditiis nobis voluptas officia iusto mollitia quasi. At aperiam quas dolores nemo impedit, earum doloremque obcaecati",
+          "image": "./src/assets/img/02.jpg"
+        },
+        {
+          "name": "Jeevan Shrestha",
+          "percentage": "80%",
+          "message": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo repudiandae, obcaecati, enim, error eaque blanditiis nobis voluptas officia iusto mollitia quasi. At aperiam quas dolores nemo impedit, earum doloremque obcaecati",
+          "image": "./src/assets/img/01.jpg"
+        },
+        {
+          "name": "Jeevan Shrestha",
+          "percentage": "80%",
+          "message": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo repudiandae, obcaecati, enim, error eaque blanditiis nobis voluptas officia iusto mollitia quasi. At aperiam quas dolores nemo impedit, earum doloremque obcaecati",
+          "image": "./src/assets/img/07.jpg"
+        },
+        {
+          "name": "Jeevan Shrestha",
+          "percentage": "80%",
+          "message": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo repudiandae, obcaecati, enim, error eaque blanditiis nobis voluptas officia iusto mollitia quasi. At aperiam quas dolores nemo impedit, earum doloremque obcaecati",
+          "image": "./src/assets/img/02.jpg"
+        },
+        {
+          "name": "Jeevan Shrestha",
+          "percentage": "80%",
+          "message": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo repudiandae, obcaecati, enim, error eaque blanditiis nobis voluptas officia iusto mollitia quasi. At aperiam quas dolores nemo impedit, earum doloremque obcaecati",
+          "image": "./src/assets/img/03.jpg"
+        }
+      ]
+    },
+    {
+      "batch": "2077",
+      "students": [
+        {
+          "name": "Jeevan Shrestha",
+          "percentage": "80%",
+          "message": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo repudiandae, obcaecati, enim, error eaque blanditiis nobis voluptas officia iusto mollitia quasi. At aperiam quas dolores nemo impedit, earum doloremque obcaecati",
+          "image": "./src/assets/img/05.jpg"
+        },
+        {
+          "name": "Jeevan Shrestha",
+          "percentage": "80%",
+          "message": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo repudiandae, obcaecati, enim, error eaque blanditiis nobis voluptas officia iusto mollitia quasi. At aperiam quas dolores nemo impedit, earum doloremque obcaecati",
+          "image": "./src/assets/img/02.jpg"
+        }
+      ]
+    },
+    {
+      "batch": "2076",
+      "students": [
+        {
+          "name": "Jeevan Shrestha",
+          "percentage": "80%",
+          "message": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo repudiandae, obcaecati, enim, error eaque blanditiis nobis voluptas officia iusto mollitia quasi. At aperiam quas dolores nemo impedit, earum doloremque obcaecati",
+          "image": "./src/assets/img/05.jpg"
+        },
+        {
+          "name": "Jeevan Shrestha",
+          "percentage": "80%",
+          "message": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo repudiandae, obcaecati, enim, error eaque blanditiis nobis voluptas officia iusto mollitia quasi. At aperiam quas dolores nemo impedit, earum doloremque obcaecati",
+          "image": "./src/assets/img/02.jpg"
+        }
+      ]
+    }
+  ],
+
+  "blog": [
+    {
+      "title": "Empowering Education, Global Opportunities",
+      "date": "2023-04-05",
+      "image": "../../src/assets/img/15.jpg",
+      "brief": "Discover the Path to Success at Nepal's Esteemed School.Discover the Path to Success at Nepal's Esteemed School.Discover the Path to Success at Nepal's Esteemed School.",
+      "quote": "Empowering Discover Lorem",
+      "subTitle": "Empowering Education, Global Opportunities",
+      "brief_02": "Discover the Path to Success at Nepal's Esteemed School.Discover the Path to Success at Nepal's Esteemed School.Discover the Path to Success at Nepal's Esteemed School.",
+      "subTitle_01": "Empowering Education, Global Opportunities",
+      "list": ["Empowering", "Empowering", "Empowering"]
+    },
+    {
+      "title": "Empowering Education, Global Opportunities",
+      "date": "2023-04-05",
+      "image": "../../src/assets/img/15.jpg",
+      "brief": "Discover the Path to Success at Nepal's Esteemed School.Discover the Path to Success at Nepal's Esteemed School.Discover the Path to Success at Nepal's Esteemed School.",
+      "quote": "Empowering Discover Lorem",
+      "subHeading": "Empowering Education, Global Opportunities",
+      "brief_02": "Discover the Path to Success at Nepal's Esteemed School.Discover the Path to Success at Nepal's Esteemed School.Discover the Path to Success at Nepal's Esteemed School.",
+      "subHeading_01": "Empowering Education, Global Opportunities",
+      "list": ["Empowering", "Empowering", "Empowering"]
+    },
+    {
+      "title": "Empowering Education, Global Opportunities",
+      "date": "2023-04-05",
+      "image": "../../src/assets/img/15.jpg",
+      "brief": "Discover the Path to Success at Nepal's Esteemed School.Discover the Path to Success at Nepal's Esteemed School.Discover the Path to Success at Nepal's Esteemed School.",
+      "quote": "Empowering Discover Lorem",
+      "subHeading": "Empowering Education, Global Opportunities",
+      "brief_02": "Discover the Path to Success at Nepal's Esteemed School.Discover the Path to Success at Nepal's Esteemed School.Discover the Path to Success at Nepal's Esteemed School.",
+      "subHeading_01": "Empowering Education, Global Opportunities",
+      "list": ["Empowering", "Empowering", "Empowering"]
+    },
+    {
+      "title": "Empowering Education, Global Opportunities",
+      "date": "2023-04-05",
+      "image": "../../src/assets/img/15.jpg",
+      "brief": "Discover the Path to Success at Nepal's Esteemed School.Discover the Path to Success at Nepal's Esteemed School.Discover the Path to Success at Nepal's Esteemed School.",
+      "quote": "Empowering Discover Lorem",
+      "subHeading": "Empowering Education, Global Opportunities",
+      "brief_02": "Discover the Path to Success at Nepal's Esteemed School.Discover the Path to Success at Nepal's Esteemed School.Discover the Path to Success at Nepal's Esteemed School.",
+      "subHeading_01": "Empowering Education, Global Opportunities",
+      "list": ["Empowering", "Empowering", "Empowering"]
+    },
+    {
+      "title": "Empowering Education, Global Opportunities",
+      "date": "2023-04-05",
+      "image": "../../src/assets/img/15.jpg",
+      "brief": "Discover the Path to Success at Nepal's Esteemed School.Discover the Path to Success at Nepal's Esteemed School.Discover the Path to Success at Nepal's Esteemed School.",
+      "quote": "Empowering Discover Lorem",
+      "subHeading": "Empowering Education, Global Opportunities",
+      "brief_02": "Discover the Path to Success at Nepal's Esteemed School.Discover the Path to Success at Nepal's Esteemed School.Discover the Path to Success at Nepal's Esteemed School.",
+      "subHeading_01": "Empowering Education, Global Opportunities",
+      "list": ["Empowering", "Empowering", "Empowering"]
+    },
+    {
+      "title": "Empowering Education, Global Opportunities",
+      "date": "2023-04-05",
+      "image": "../../src/assets/img/15.jpg",
+      "brief": "Discover the Path to Success at Nepal's Esteemed School.Discover the Path to Success at Nepal's Esteemed School.Discover the Path to Success at Nepal's Esteemed School.",
+      "quote": "Empowering Discover Lorem",
+      "subHeading": "Empowering Education, Global Opportunities",
+      "brief_02": "Discover the Path to Success at Nepal's Esteemed School.Discover the Path to Success at Nepal's Esteemed School.Discover the Path to Success at Nepal's Esteemed School.",
+      "subHeading_01": "Empowering Education, Global Opportunities",
+      "list": ["Empowering", "Empowering", "Empowering"]
+    },
+    {
+      "title": "Empowering Education, Global Opportunities",
+      "date": "2023-04-05",
+      "image": "../../src/assets/img/15.jpg",
+      "brief": "Discover the Path to Success at Nepal's Esteemed School.Discover the Path to Success at Nepal's Esteemed School.Discover the Path to Success at Nepal's Esteemed School.",
+      "quote": "Empowering Discover Lorem",
+      "subHeading": "Empowering Education, Global Opportunities",
+      "brief_02": "Discover the Path to Success at Nepal's Esteemed School.Discover the Path to Success at Nepal's Esteemed School.Discover the Path to Success at Nepal's Esteemed School.",
+      "subHeading_01": "Empowering Education, Global Opportunities",
+      "list": ["Empowering", "Empowering", "Empowering"]
+    }
+  ],
+
+  "notices": [
+    {
+      "title": "Inspiring Excellence, Transforming Lives",
+      "image": "../../src/assets/img/15.jpg",
+      "download": "true",
+      "date": "2023-04-05",
+      "brief": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Magni mollitia exercitationem quis illum minima tempore totam neque dolores corrupti aut voluptates sapiente unde odio fuga, sed harum animi, natus accusantium!"
+    },
+    {
+      "title": "Inspiring Excellence, Transforming Lives",
+      "image": "../../src/assets/img/15.jpg",
+      "download": false,
+      "date": "2023-04-05",
+      "brief": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Magni mollitia exercitationem quis illum minima tempore totam neque dolores corrupti aut voluptates sapiente unde odio fuga, sed harum animi, natus accusantium!"
+    },
+    {
+      "title": "Inspiring Excellence, Transforming Lives",
+      "image": "../../src/assets/img/15.jpg",
+      "download": "true",
+      "date": "2023-04-05",
+      "brief": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Magni mollitia exercitationem quis illum minima tempore totam neque dolores corrupti aut voluptates sapiente unde odio fuga, sed harum animi, natus accusantium!"
+    },
+    {
+      "title": "Inspiring Excellence, Transforming Lives",
+      "image": "../../src/assets/img/15.jpg",
+      "download": "true",
+      "date": "2023-04-05",
+      "brief": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Magni mollitia exercitationem quis illum minima tempore totam neque dolores corrupti aut voluptates sapiente unde odio fuga, sed harum animi, natus accusantium!"
+    },
+    {
+      "title": "Inspiring Excellence, Transforming Lives",
+      "image": "../../src/assets/img/15.jpg",
+      "download": "true",
+      "date": "2023-04-05",
+      "brief": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Magni mollitia exercitationem quis illum minima tempore totam neque dolores corrupti aut voluptates sapiente unde odio fuga, sed harum animi, natus accusantium!"
+    },
+    {
+      "title": "Inspiring Excellence, Transforming Lives",
+      "image": "../../src/assets/img/15.jpg",
+      "download": "true",
+      "date": "2023-04-05",
+      "brief": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Magni mollitia exercitationem quis illum minima tempore totam neque dolores corrupti aut voluptates sapiente unde odio fuga, sed harum animi, natus accusantium!"
+    },
+    {
+      "title": "Inspiring Excellence, Transforming Lives",
+      "image": "../../src/assets/img/15.jpg",
+      "download": "true",
+      "date": "2023-04-05",
+      "brief": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Magni mollitia exercitationem quis illum minima tempore totam neque dolores corrupti aut voluptates sapiente unde odio fuga, sed harum animi, natus accusantium!"
+    },
+    {
+      "title": "Inspiring Excellence, Transforming Lives",
+      "image": "../../src/assets/img/15.jpg",
+      "download": "true",
+      "date": "2023-04-05",
+      "brief": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Magni mollitia exercitationem quis illum minima tempore totam neque dolores corrupti aut voluptates sapiente unde odio fuga, sed harum animi, natus accusantium!"
+    }
+  ],
+
+  "footerNav": [
+    {
+      "title": "Quick Links",
+      "links": [
+        {
+          "title": "About Us",
+          "link": "/about"
+        },
+        {
+          "title": "Contact Us",
+          "link": "/contact"
+        },
+        {
+          "title": "Blogs",
+          "link": "/blog"
+        },
+        {
+          "title": "Courses",
+          "link": "/courses"
+        },
+        {
+          "title": "Notice",
+          "link": "/notice"
+        }
+      ]
+    },
+    {
+      "title": "Useful Links",
+      "links": [
+        {
+          "title": "Notices",
+          "link": "/notices"
+        },
+        {
+          "title": "FAQ",
+          "link": "/faq"
+        },
+        {
+          "title": "Results",
+          "link": "/results"
+        },
+        {
+          "title": "Courses",
+          "link": "/courses"
+        }
+      ]
+    },
+    {
+      "title": "Privacy Policy",
+      "links": [
+        {
+          "title": "Privacy Policy",
+          "link": "/privacy-policy"
+        },
+        {
+          "title": "Terms and Conditions",
+          "link": "/terms-and-conditions"
+        }
+      ]
+    }
+  ],
+
+  "management": [
+    {
+      "name": "Ganesh Kunwar",
+      "position": "Principal",
+      "degree": "Bachelor",
+      "yearsOfExperience": "10"
+    },
+    {
+      "name": "ABC",
+      "position": "Principal",
+      "degree": "Bachelor",
+      "yearsOfExperience": "5"
+    },
+    {
+      "name": "abc",
+      "position": "Principal",
+      "degree": "Bachelor",
+      "yearsOfExperience": "6"
+    },
+    {
+      "name": "xyz",
+      "position": "Principal",
+      "degree": "Bachelor",
+      "yearsOfExperience": "7"
+    }
+  ],
+
+  "administration": [
+    {
+      "name": "Ashish Chand",
+      "position": "Principal",
+      "degree": "Bachelor",
+      "yearsOfExperience": "10"
+    }
+  ],
+
+  "staff": [
+    {
+      "name": "Ramesh Sir",
+      "position": "Principal",
+      "degree": "Bachelor",
+      "yearsOfExperience": "10"
+    }
+  ],
+  "objectives": [
+    "To provide a well-structured and efficient learning environment for students, with focus on quality instruction, student-friendly learning, and personalized attention to individual needs.",
+    "To promote positive learning outcomes for students, promote student success, and foster lifelong learning.",
+    "To foster positive learning outcomes for students, promote student success, and foster lifelong learning.",
+    "To promote positive learning outcomes for students, promote student success, and foster lifelong learning.",
+    "To promote positive learning outcomes for students, promote student success, and foster lifelong learning."
+  ]
+}

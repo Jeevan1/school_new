@@ -1,0 +1,48 @@
+.aside {
+  &__box {
+    background-color: #f7f7f7;
+    padding: 15px;
+
+    &__item {
+      display: flex;
+      align-items: center;
+      justify-content: flex-start;
+      gap: 10px;
+      height: 80px;
+
+      a {
+        font-weight: 600;
+      }
+
+      &:not(:last-child) {
+        padding-bottom: 15px;
+        border-bottom: 1px solid $ddd;
+      }
+
+      >div {
+        flex: 1 1 50%;
+
+        &.image {
+          width: 100%;
+          height: 100%;
+        }
+
+        &.title {
+          span {
+            @include line-clamp(3);
+          }
+        }
+      }
+    }
+  }
+}
+
+@media (max-width: 991px) {
+  .aside {
+    &__box {
+      &__item {
+        height: 100px;
+      }
+    }
+  }
+}
